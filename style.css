@@ -207,13 +207,13 @@ body {
 .projects-section {
   background-color: rgba(228, 238, 246, 0.784);
   flex: 1;
-  padding: 1.3rem 1rem;
+  padding: 1.6rem 2rem;
   display: flex;
   gap: 1.5rem;
 }
 
 .left-project-section {
-  max-width: 750px;
+  max-width: 800px;
 }
 
 .left-project-section h4 {
